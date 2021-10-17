@@ -1,3 +1,6 @@
 ### Sudoku Solver
-Android Application 
+An Android Application to solve Sudoku Puzzles
+
 Language Used : Java
+
+
